@@ -44,4 +44,4 @@ function jugarCachipun() {
   console.log('Juego terminado');
 }
 
-jugarCachipun();
+// jugarCachipun();
